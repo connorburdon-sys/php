@@ -1,0 +1,15 @@
+{
+    "name": "conno/environment",
+    "autoload": {
+        "psr-4": {
+            "Conno\\Environment\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "connorburdon-sys",
+            "email": "connorburdon@gmail.com"
+        }
+    ],
+    "require": {}
+}
